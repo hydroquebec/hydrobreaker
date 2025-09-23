@@ -11,7 +11,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/hydroquebec/hydrobreaker">
-    <img src="images/images/hydro-breaker.png" alt="Ecran">
+![Screenshot 2](images/hydro-breaker.png)
   </a>
 
 <h1 align="center"></h1>
