@@ -11,7 +11,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/hydroquebec/hydrobreaker">
-    <img src="https://github.com/hydroquebec/hydrobreaker/images/hydro-breaker.png">
+    <img src="https://github.com/hydroquebec/hydrobreaker/blob/master/images/hydro-breaker.png?raw=true">
   </a>
 
   <p align="center">
