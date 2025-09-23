@@ -11,10 +11,8 @@
 <br />
 <div align="center">
   <a href="https://github.com/hydroquebec/hydrobreaker">
-![Screenshot 2](images/hydro-breaker.png)
+    <img src="https://github.com/hydroquebec/hydrobreaker/images/hydro-breaker.png">
   </a>
-
-<h1 align="center"></h1>
 
   <p align="center">
     Wallbreaker est un clone des célèbres jeux Arkanoid/Breakout, écrit en C++ avec SFML. Le jeu propose divers bonus, 20 niveaux et un éditeur de niveaux.
