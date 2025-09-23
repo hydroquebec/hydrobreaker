@@ -1,13 +1,41 @@
+<!-- Banner / Logo -->
+<!--
+<p align="center">
+  <img src="https://via.placeholder.com/800x200.png?text=Wallbreaker+Game" alt="Wallbreaker Banner" />
+</p>
+ -->
+<!-- Title -->
+<h1 align="center">🎮 Hydrobreaker ⚡️</h1>
 
+<p align="center">
+  <strong>Jeu "Wallbreaker" rétro réalisé par notre équipe de stagiraires du Hackathon 2025</strong>
+</p>
 
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
-<a id="readme-top"></a>
+<!-- Badges -->
+<p align="center">
+  <a href="https://github.com/hydroquebec/hydrobreaker/stargazers">
+    <img src="https://img.shields.io/github/stars/hydroquebec/hydrobreaker?style=for-the-badge" alt="Stars" />
+  </a>
+  <a href="https://github.com/hydroquebec/hydrobreaker/issues">
+    <img src="https://img.shields.io/github/issues/hydroquebec/hydrobreaker?style=for-the-badge" alt="Issues" />
+  </a>
+  <a href="https://github.com/hydroquebec/hydrobreaker/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/hydroquebec/hydrobreaker?style=for-the-badge" alt="License" />
+  </a>
+</p>
 
-**TLPL; Veuillez encourager notre équipe de stagiraires du Hackathon 2025 dans la réalisation de son nouveau jeu *hydrobreaker* en devenant beta-testeur!**
+## 🚀 Aperçu
+Hydrobreaker est un jeu d'arcade classique où vous contrôlez une raquette pour renvoyer une balle et détruire toutes les briques.  
+Revisité avec des graphismes modernes, des power-ups, et un gameplay dynamique!
 
-**Ce jeu pourrait être éventuellement utilisé lors des visites d'Hydro-Québec dans des écoles partenaires.**
+<p align="center">
+   <a href="https://github.com/hydroquebec/hydrobreaker/releases">Gameplay Demo</a>
+</p>
 
-**🎮 Pour essayer notre jeu, sous le menu "Releases" dans l'espace vertical à droite, cliquez sur l'objet indiqué par l'icône "Latest".  Ceci devrait vous donner accès à l'exécutable du jeu.**
+**Veuillez encourager notre équipe de stagiraires du Hackathon 2025 en devenant beta-testeur!**
+
+Ce jeu pourrait être éventuellement utilisé lors des visites d'Hydro-Québec dans des écoles partenaires.
+N'hésitez pas à remonter quelconque bug ou suggestion ✨️
 
 <!-- PROJECT LOGO -->
 <br />
