@@ -3,7 +3,9 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a id="readme-top"></a>
 
-**TLPL; Veuillez encourager notre équipe de stagiraires du Hackathon 2025 dans la réalisation de son nouveau jeu *hydrobreaker* en devenant beta-testeur! Ce jeu pourrait être éventuellement utilisé lors des visites d'Hyudro-Québec dans des écoles partenaires.**
+**TLPL; Veuillez encourager notre équipe de stagiraires du Hackathon 2025 dans la réalisation de son nouveau jeu *hydrobreaker* en devenant beta-testeur!**
+
+Ce jeu pourrait être éventuellement utilisé lors des visites d'Hydro-Québec dans des écoles partenaires.**
 
 **🎮 Pour essayer notre jeu, sous le menu "Releases" dans l'espace vertical à droite, cliquez sur l'objet indiqué par l'icône "Latest".  Ceci devrait vous donner accès à l'exécutable du jeu.**
 
