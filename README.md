@@ -25,8 +25,7 @@
 </p>
 
 ## 🚀 Aperçu
-Hydrobreaker est un jeu d'arcade classique où vous contrôlez une raquette pour renvoyer une balle et détruire toutes les briques.  
-Revisité avec des graphismes modernes, des power-ups, et un gameplay dynamique!
+Hydrobreaker est un jeu d'arcade classique où vous contrôlez une raquette pour renvoyer une balle et détruire toutes les briques. Revisité avec des graphismes modernes, des power-ups, et un gameplay dynamique!
 
 <p align="center">
    <a href="https://github.com/hydroquebec/hydrobreaker/releases">Gameplay Demo</a>
