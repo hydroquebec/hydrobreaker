@@ -5,10 +5,13 @@
 </p>
  -->
 <!-- Title -->
+<p align="center">
+<img src="images/hydro-briques.png" alt="Logo" style="width:38%; height:auto;">
+  </p>
 <h1 align="center">🎮 Hydrobreaker ⚡️</h1>
 
 <p align="center">
-  <strong>Jeu "Wallbreaker" rétro réalisé par notre équipe de stagiaires du Hackathon 2025</strong>
+  <strong>Jeu "Wallbreaker" rétro réalisé par notre équipe de stagiaires du Hackathon 2025.</strong>
 </p>
 
 <!-- Badges -->
