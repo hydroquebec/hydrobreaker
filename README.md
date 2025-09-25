@@ -22,7 +22,7 @@
   <a href="https://github.com/hydroquebec/hydrobreaker/issues">
     <img src="https://img.shields.io/github/issues/hydroquebec/hydrobreaker?style=for-the-badge" alt="Issues" />
   </a>
-  <a href="https://github.com/hydroquebec/hydrobreaker/blob/main/LICENSE">
+  <a href="[https://github.com/hydroquebec/hydrobreaker/blob/main/LICENCE">
     <img src="https://img.shields.io/github/license/hydroquebec/hydrobreaker?style=for-the-badge" alt="License" />
   </a>
 </p>
