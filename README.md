@@ -50,6 +50,8 @@ N'hésitez pas à remonter quelconque bug ou suggestion ✨️
     Hydrobreaker propose divers bonus, 20 niveaux et un éditeur de niveaux.
     <br />
     <br />
+    <a href="https://github.com/hydroquebec/hydrobreaker/releases/download/v1.0/hydrobreaker_1.0_windows_amd64.zip">Télécharger</a>
+    &middot;
     <a href="https://github.com/hydroquebec/hydrobreaker/issues/new?labels=bug&template=bug-report---.md">Rapporter un bogue</a>
     &middot;
     <a href="https://github.com/hydroquebec/hydrobreaker/issues/new?labels=enhancement&template=feature-request---.md">Demander une fonctionnalité</a>
