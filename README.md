@@ -31,7 +31,7 @@
 Hydrobreaker est un jeu d'arcade classique où vous contrôlez une raquette pour renvoyer une balle et détruire toutes les briques. Revisité avec des graphismes modernes, des power-ups, et un gameplay dynamique!
 
 <p align="center">
-  [ <a href="https://github.com/hydroquebec/hydrobreaker/releases/download/v1.0/hydrobreaker_1.0_windows_amd64.zip">Gameplay Demo</a> ]
+  [ <a href="https://github.com/hydroquebec/hydrobreaker/releases/download/v1.0/hydrobreaker_1.0_windows_amd64.zip">Gameplay Demo</a> (en phase de re-build pour le moment) ]
 </p>
 
 **Veuillez encourager notre équipe de stagiraires du Hackathon 2025 en devenant beta-testeur!**
@@ -50,8 +50,10 @@ N'hésitez pas à remonter quelconque bug ou suggestion ✨️
     Hydrobreaker propose divers bonus, 20 niveaux et un éditeur de niveaux.
     <br />
     <br />
+    <!-- PROJECT LOGO 
     <a href="https://github.com/hydroquebec/hydrobreaker/releases/download/v1.0/hydrobreaker_1.0_windows_amd64.zip">Télécharger</a>
     &middot;
+    -->
     <a href="https://github.com/hydroquebec/hydrobreaker/issues/new?labels=bug&template=bug-report---.md">Rapporter un bogue</a>
     &middot;
     <a href="https://github.com/hydroquebec/hydrobreaker/issues/new?labels=enhancement&template=feature-request---.md">Demander une fonctionnalité</a>
